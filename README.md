@@ -20,6 +20,5 @@ Projeto em Java que permite gerenciar tarefas por meio de boards, colunas e card
 - JDBC (MySQL Connector/J)
 - IntelliJ IDEA
 
-📌 Autor
-Desenvolvido por Lucca Vidal
+📌Desenvolvido por Lucca Vidal
 📧 luccafreitas53@gmail.com
