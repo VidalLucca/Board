@@ -1,6 +1,5 @@
 # 🗂️Board
-
-Um sistema simples de gerenciamento de boards, colunas e cards em estilo Kanban, desenvolvido em **Java puro** com **persistência em banco de dados MySQL**.
+Projeto em Java que permite gerenciar tarefas por meio de boards, colunas e cards, com os dados armazenados em um banco de dados MySQL.
 
 ---
 
